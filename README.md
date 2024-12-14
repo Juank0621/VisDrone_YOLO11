@@ -4,6 +4,8 @@
   <img src="logo_jg.png" alt="Demo Image" style="width:60%;"/>
 </div>
 
+---
+
 <p align="center">Developed by <a href="https://www.linkedin.com/in/juancarlosgarzon/">Juan Carlos Garzon</a></p>
 
 <h3 align="center">Demo IMAGE</h3>
@@ -11,6 +13,8 @@
 <div align="center">
   <img src="image_demo.png" alt="Demo Image" style="width:80%;"/>
 </div>
+
+---
 
 <h3 align="center">Demo VIDEO</h3>
 
