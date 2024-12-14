@@ -18,7 +18,7 @@
 
 <h3 align="center">Demo VIDEO</h3>
 
-https://github.com/Juank0621/VisDrone_YOLO11/raw/main/assets/thumbnail.png)](https://github.com/Juank0621/VisDrone_YOLO11/raw/main/assets/video_demo.mp4
+https://github.com/Juank0621/VisDrone_YOLO11/raw/main/assets/video_demo.mp4
 
 ---
 
