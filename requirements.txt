@@ -1,0 +1,9 @@
+ultralytics
+torch
+torchvision
+matplotlib
+seaborn
+opencv-python
+streamlit
+fastapi
+uvicorn
