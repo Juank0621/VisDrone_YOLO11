@@ -18,7 +18,7 @@
 
 <h3 align="center">Demo VIDEO</h3>
 
-https://github.com/user-attachments/assets/642ac0e8-5f25-4a3a-ab1d-4bd37ebfb860
+https://github.com/user-attachments/assets/12c75460-b6d5-48a9-84a6-ce851715ffb8
 
 ---
 
