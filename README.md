@@ -1,4 +1,5 @@
 <h1 align="center">📸 VisDrone: YOLO11 Detection 🎥</h1>
+<p align="center">Developed by <a href="https://www.linkedin.com/in/juancarlosgarzon/">Juan Carlos Garzon</a></p>
 
 <div align="center">
   <img src="logo2.png" alt="Logo" style="width:80%;"/>
@@ -6,7 +7,7 @@
 
 ---
 
-<p align="center">Developed by <a href="https://www.linkedin.com/in/juancarlosgarzon/">Juan Carlos Garzon</a></p>
+
 
 <h3 align="center">Demo IMAGE</h3>
 
