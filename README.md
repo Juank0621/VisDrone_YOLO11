@@ -1,7 +1,7 @@
 <h1 align="center">📸 VisDrone: YOLO11 Detection 🎥</h1>
 
 <div align="center">
-  <img src="logo.png" alt="Logo" style="width:70%;"/>
+  <img src="logo2.png" alt="Logo" style="width:70%;"/>
 </div>
 
 ---
