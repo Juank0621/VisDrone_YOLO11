@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo2.png" alt="Logo" style="width:80%;"/>
+  <img src="logo.png" alt="Logo" style="width:80%;"/>
 </div>
 
 <h1 align="center">📸 VisDrone: YOLO11 Detection 🎥</h1>
